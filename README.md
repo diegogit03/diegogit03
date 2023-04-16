@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @diegogit03
 - 👀 I’m interested in Backend Coding
-- 🌱 I’m currently learning GdScript
+- 🌱 I’m currently learning Redis
 - 📫 How to reach me: dhom91718@gmail.com
