@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @diegogit03
-- 👀 I’m interested in Backend Coding
-- 🌱 I’m currently learning Compilers
+- 👀 I’m interested in Build hard things
+- 🌱 I’m currently learning c++
 - 📫 How to reach me: dhom91718@gmail.com
-
-i migrated to: <a href="https://gitlab.com/diegogitlab03">Gitlab</a>
